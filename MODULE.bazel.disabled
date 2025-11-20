@@ -1,0 +1,1 @@
+module(name = "opencv_bazel_camera", version = "1.0")
